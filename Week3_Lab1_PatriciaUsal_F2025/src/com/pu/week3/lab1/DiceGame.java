@@ -61,7 +61,5 @@ public class DiceGame {
 				System.out.println("Roll again");
 			}
 		}
-
 	}
-
 }
